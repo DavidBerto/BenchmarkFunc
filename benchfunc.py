@@ -1,6 +1,15 @@
+#Benchmark Functions
+'''
+References:
+
+
+
+
+
+
+'''
 from math import pi
 
-print(pi)
 #Rastrigin function
 #min f(0,...,0) = 0
 def Rastrigin(n,x):
